@@ -28,7 +28,30 @@ We also built a **rank-based predictor tool** where users can input their JEE Ma
   - Top institutes by number of programs (Bar Chart)  
   - Closing rank distribution across categories (Boxplot)  
   - Top IITs for CSE by cutoff (Bar Chart)  
-  - Closing rank histogram  
+  - Closing rank histogram
+ 
+  - 📊 Power BI Dashboard
+
+Along with Python analysis and visualization, this project also includes an interactive Power BI Dashboard for deeper insights into engineering admissions.
+
+🔹 Key Features of Dashboard:
+
+Seat Distribution by Category – Pie chart showing the percentage share of OPEN, OBC, SC, ST, EWS, and PwD categories.
+
+Institute & Branch Insights – Treemap visualization displaying the count of branches across various institutes and disciplines.
+
+Branch Availability by Institute – Bar chart highlighting which institutes offer the most number of branches.
+
+📌 Dashboard Title:
+
+Engineering Admissions Insights Dashboard
+
+🖼️ Dashboard Preview:
+
+
+
+
+The Power BI dashboard complements the Python analysis by providing an easy-to-explore, interactive way to analyze admission data.
 
 ---
 
