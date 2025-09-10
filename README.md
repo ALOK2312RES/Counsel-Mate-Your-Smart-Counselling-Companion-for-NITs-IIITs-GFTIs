@@ -29,8 +29,8 @@ We also built a **rank-based predictor tool** where users can input their JEE Ma
   - Closing rank distribution across categories (Boxplot)  
   - Top IITs for CSE by cutoff (Bar Chart)  
   - Closing rank histogram
- 
-  - 📊 Power BI Dashboard
+  
+  📊 Power BI Dashboard
 
 Along with Python analysis and visualization, this project also includes an interactive Power BI Dashboard for deeper insights into engineering admissions.
 
@@ -59,5 +59,6 @@ The Power BI dashboard complements the Python analysis by providing an easy-to-e
 - **Python** 🐍  
 - **Pandas** → Data analysis  
 - **Matplotlib / Seaborn** → Visualizations  
-- **Google Colab / Jupyter Notebook** → Interactive analysis  
+- **Google Colab / Jupyter Notebook** → Interactive analysis
+- **power bi dashboard**
 
